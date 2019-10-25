@@ -1,20 +1,20 @@
 @import url(http://fonts.googleapis.com/css?family=Lato);
 html {
-    background: #222222;
+    background: #3c2f2f;
 }
 
 body {
     padding: 50px 0;
     margin: 0;
     font-family: 'Lato', Helvetica, sans-serif;
-    color: #ccc;
+    color: #fff4e6;
     font-weight: 300;
 }
 
 .wrapper {
     max-width: 640px;
     margin: 0 auto;
-    background: #222222;
+    background: #3c2f2f;
     border-radius: 0px;
 }
 
@@ -23,7 +23,7 @@ header, section, footer {
 }
 
 a {
-    color: #FFFFFF;
+    color: #854442;
     text-decoration: none;
 }
 
@@ -32,11 +32,16 @@ p {
     padding: 0;
 }
 
+b {
+    color: #be9b7b;
+}
+
 .ul {
     text-decoration: underline;
 }
 
 .it {
+    color: #be9b7b;
     font-style: italic;
 }
 
@@ -45,13 +50,13 @@ p {
 }
 
 strong {
-    color: #FFF;
+    color: #be9b7b;
     font-weight: 700;
 }
 
 header {
     border-radius: 0;
-    background: #222222;
+    background: #3c2f2f;
     position: relative;
     padding: 20px 20px 30px 20px;
     margin-top: -1px;
@@ -62,11 +67,11 @@ header h1 {
     padding: 0;
     font-size: 24px;
     line-height: 1.2;
-    color: #FFFFFF;
+    color: #fff4e6;
 }
 header p {
     margin: 0;
-    color: #FFFFFF;
+    color: #fff4e6;
     font-size: 15px;
 }
 header ul {
@@ -90,7 +95,7 @@ main {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #666;
+    color: #be9b7b;
     padding: 0;
     margin: 0 0 20px;
     line-height: 1.2;
@@ -110,15 +115,15 @@ h1, h2, h3 {
 
 h1 {
     font-size: 28px;
-    color: #FFFFFF;
+    color: #fff4e6;
 }
 
 h2 {
-    color: #FFFFFF;
+    color: #fff4e6;
 }
 
 h3, h4, h5, h6 {
-    color: #bbbbbb;
+    color: #be9b7b;
 }
 
 blockquote {
